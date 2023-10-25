@@ -4,11 +4,11 @@
         <title>TimeAssistant</title>
         <item>
             <title>2.0.0</title>
-            <pubDate>Wed, 25 Oct 2023 13:41:49 -0300</pubDate>
+            <pubDate>Wed, 25 Oct 2023 14:01:05 -0300</pubDate>
             <sparkle:version>2.0.0</sparkle:version>
             <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/test-9a568.appspot.com/o/Time-Assistant.dmg" length="11903759" type="application/octet-stream" sparkle:edSignature="n4eeKJb1g0TEqDnE/f+uPZRoWorwrOxGh2FAtYcYFcanKEwUcnWwSHRhNTMOpDteex4KqKa2DOthBsC883+2Bw=="/>
+            <enclosure url="https://jeffersonmourak.com/upgrade-test/Time-Assistant.dmg" length="11903743" type="application/octet-stream" sparkle:edSignature="BnuTX0J5v5aHbJgR5mNhYjd1G2hW1yyNyfIbPgn5zCkaLfpWrleQedhLnEruApDh/cDUBxXL6oVulkp5EfLxCA=="/>
         </item>
     </channel>
 </rss>
