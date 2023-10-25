@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TimeAssistant</title>
+        <item>
+            <title>2.0.0</title>
+            <pubDate>Wed, 25 Oct 2023 13:41:49 -0300</pubDate>
+            <sparkle:version>2.0.0</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/test-9a568.appspot.com/o/Time-Assistant.dmg" length="11903759" type="application/octet-stream" sparkle:edSignature="n4eeKJb1g0TEqDnE/f+uPZRoWorwrOxGh2FAtYcYFcanKEwUcnWwSHRhNTMOpDteex4KqKa2DOthBsC883+2Bw=="/>
+        </item>
+    </channel>
+</rss>
